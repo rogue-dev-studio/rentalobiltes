@@ -490,7 +490,7 @@ INSERT INTO `settings` (`id`, `name`, `slug`, `description`, `type`, `deleted_at
 ('9e8abd36-5fbb-46fa-a892-2eb6979c0032', 'Nama Toko', 'nama-toko', 'Rental Mobil', 'text', NULL, '2020-12-09 04:46:04', '2020-12-09 04:46:04'),
 ('18d9e4be-69a6-4719-8ac6-6cc52437d27a', 'Alamat', 'alamat', 'Majalengka', 'text', NULL, '2020-12-09 04:46:04', '2024-01-27 06:12:16'),
 ('5f7c429e-8b77-41ae-bd4e-5081ce2d79da', 'Nomer Telepon', 'nomer-telepon', '082199275053', 'text', NULL, '2020-12-09 04:46:04', '2024-01-27 06:12:17'),
-('e3e1c06b-1052-4c7b-8584-ee4d4597ca59', 'Email', 'email', 'aris.hadisopiyan@gmail.com', 'text', NULL, '2020-12-09 04:46:04', '2024-01-27 06:12:17');
+('e3e1c06b-1052-4c7b-8584-ee4d4597ca59', 'Email', 'email', 'https://rogue-dev-studio.github.io/contact/', 'text', NULL, '2020-12-09 04:46:04', '2024-01-27 06:12:17');
 
 -- --------------------------------------------------------
 
